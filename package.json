@@ -4,7 +4,7 @@
   "description": "your favorite ray of sunshine",
   "main": "bot.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node bot js"
   },
   "author": "bia; sinarizaki#0306",
   "license": "MIT",
